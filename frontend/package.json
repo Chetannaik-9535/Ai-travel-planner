@@ -1,0 +1,26 @@
+{
+  "name": "ai-travel-planner-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for AI Travel Planner using Next.js and Tailwind CSS",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "axios": "^1.5.0",
+    "tailwindcss": "^3.3.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "typescript": "^5.2.0",
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.0.0"
+  }
+}
